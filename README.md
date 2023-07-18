@@ -31,6 +31,8 @@ This Laravel allow you to save products and returns it with the dollar cotizatio
 
 `./vendor/bin/sail up`
 
+5. Copy env.example to .env
+
 5. Run database migrations:
 
 `./vendor/bin/sail artisan migrate`
