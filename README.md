@@ -1,6 +1,6 @@
 # cotizador-back
 
-This Laravel project integrates with the Priaid API to provide symptom and diagnosis data for users. It includes user registration, login, and logout functionality using Laravel Sanctum for API authentication.
+This Laravel allow you to save products and returns it with the dollar cotization.
 
 ## Features
 
@@ -21,7 +21,7 @@ This Laravel project integrates with the Priaid API to provide symptom and diagn
 
 2. Navigate to the project directory:
 
-`cd health-backend-app`
+`cd cotizador-back`
 
 3. Install dependencies
 
